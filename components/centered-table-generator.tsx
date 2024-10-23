@@ -48,7 +48,7 @@ export function CenteredTableGenerator() {
     <div className="container mx-auto p-4 space-y-8">
       <Card className="w-full max-w-2xl mx-auto">
         <CardContent className="p-6">
-          <h2 className="text-2xl font-bold mb-4 text-center">Flexible Table Generator</h2>
+          <h2 className="text-2xl font-bold mb-4 text-center">Grade Table Generator</h2>
           <div className="space-y-4">
             <Textarea
               placeholder="Paste your text here (JSON, CSV, or any structured data)"
